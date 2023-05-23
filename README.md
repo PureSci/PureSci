@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">    
+      <a href="https://github-readme-stats.vercel.app/api/wakatime?username=Purechen&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2">
+          <img alt="Pure's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Purechen&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+      </a>
+    </p>
 
 <!--
 **PureSci/PureSci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
